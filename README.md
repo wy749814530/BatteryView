@@ -28,3 +28,5 @@
    */
   public void setPower(int power, boolean isCharge);
 ```
+
+![Image](https://github.com/wy749814530/BatteryView/blob/master/example.jpg)
